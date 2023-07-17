@@ -33,7 +33,7 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
  - right arrow key - to rotate the player in clock wise direction
 
 # project Demo
- [![3D Maze](https://www.linkedin.com/feed/update/urn:li:activity:7077664845050839041/)
+
 
 # Authors
 
